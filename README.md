@@ -15,6 +15,11 @@
 
 ## 🏆 Projects
 
+### 🔗 Responsive App (Open Source)
+**Contributor to open source project documentation and user support**   [Repository](https://github.com/RaffyLeong/responsively-app) | [My Contributions](https://github.com/responsively-org/responsively-app/issues/1406)
+- Learning open source workflows: issues, PRs, and collaborative development
+- Improving project documentation and user onboarding materials
+
 ### 🍋 Little Lemon Restaurant 
 **Meta Frontend Developer Certification Capstone Project**    [Live Demo]() | [Code](https://github.com/RaffyLeong/little-lemon-app)
 
