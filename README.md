@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 🔭 Sharpening my skills through Frontend Mentor challenges - building real projects, not just tutorials<br>- 🌱 Self-taught frontend developer focused on modern web technologies<br>- 🎯 Seeking my first professional frontend developer role<br>- 💡 Proving my abilities through **hands-on projects + open source project**
+- 🔭 Sharpening my skills through Frontend Mentor challenges - building real projects, not just tutorials<br>
+- 🌱 Self-taught frontend developer focused on modern web technologies<br>
+- 🎯 Seeking my first professional frontend developer role<br>
+- 💡 Proving my abilities through **hands-on projects + open source project**
 
 
 ## 🌐 Socials:
