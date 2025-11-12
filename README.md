@@ -23,8 +23,10 @@
 ### 🍋 Little Lemon Restaurant 
 **Meta Frontend Developer Certification Capstone Project**    [Live Demo]() | [Code](https://github.com/RaffyLeong/little-lemon-app)
 
-A complete restaurant website featuring responsive design, table booking system, and modern UI components.  
- Technologies - HTML5, CSS3, JavaScript, React  
+- Developed responsive website with table booking system using React
+- Implemented UX/UI designs focusing on user experience and accessibility
+- Integrated with external APIs for real-time data handling
+
 
 ### 🎯 Frontend Mentor Challenges
 Article preview component | [Live Demo](https://raffyleong.github.io/Frontend-Mentor-Article-preview-component/) | [Code](https://github.com/RaffyLeong/Frontend-Mentor-Article-preview-component)
