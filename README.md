@@ -10,7 +10,8 @@
 
 ## 🚀 Featured Project
 
-### **Resume Auto-Fill Simulator** | [Live Demo]([your-vercel-link](https://resumeautofillsimulator.netlify.app/)) | [Code]([your-github-repo-link](https://github.com/RaffyLeong/resume-autofill-simulator)) | [Video Demo]([your-loom-link](https://www.loom.com/share/c6de24ce6c3449b5a20551e1da93382b))
+### **Resume Auto-Fill Simulator** | [Live Demo](https://resumeautofillsimulator.netlify.app/) | [Code](https://github.com/RaffyLeong/resume-autofill-simulator) | [Video Demo](https://www.loom.com/share/c6de24ce6c3449b5a20551e1da93382b)
+
 
 A React-based solution addressing the tedious job application experience.  
 **Key Features:**
