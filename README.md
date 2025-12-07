@@ -47,7 +47,7 @@ A React-based solution addressing the tedious job application experience.
 - Improving project documentation and user onboarding materials
 
 ### 🍋 Little Lemon Restaurant 
-**Meta Frontend Developer Certification Capstone Project**    [Live Demo]() | [Code](https://github.com/RaffyLeong/little-lemon-app)
+**Meta Frontend Developer Certification Capstone Project**    [Live Demo](https://raffy-littlelemon.netlify.app/) | [Code](https://github.com/RaffyLeong/little-lemon-app)
 
 - Developed responsive website with table booking system using React
 - Implemented UX/UI designs focusing on user experience and accessibility
