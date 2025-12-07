@@ -13,7 +13,7 @@
 ### **Resume Auto-Fill Simulator** | [Live Demo](https://job-anallyze.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)
 
 
-A React application that analyzes job descriptions and calculates skill match percentage.
+A React application that analyzes job descriptions and calculates skill match percentage.   
 **Key Features:**
 - Instant job description analysis
 - Skill match percentage calculation
