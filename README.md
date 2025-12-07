@@ -10,6 +10,19 @@
 
 ## 🚀 Featured Project
 
+### **Resume Auto-Fill Simulator** | [Live Demo](https://job-anallyze.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)
+
+
+A React application that analyzes job descriptions and calculates skill match percentage.
+**Key Features:**
+- Instant job description analysis
+- Skill match percentage calculation
+- Tech stack identification
+- Personalized learning suggestions
+
+**Tech:** React, TypeScript, Netlify Deployment
+
+
 ### **Resume Auto-Fill Simulator** | [Live Demo](https://resumeautofillsimulator.netlify.app/) | [Code](https://github.com/RaffyLeong/resume-autofill-simulator) | [Video Demo](https://www.loom.com/share/c6de24ce6c3449b5a20551e1da93382b)
 
 
