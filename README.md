@@ -23,7 +23,7 @@ A React application that analyzes job descriptions and calculates skill match pe
 **Tech:** React, TypeScript, Netlify Deployment
 
 
-### **Resume Auto-Fill Simulator** | [Live Demo](https://resumeautofillsimulator.netlify.app/) | [Code](https://github.com/RaffyLeong/resume-autofill-simulator) | [Video Demo](https://www.loom.com/share/c6de24ce6c3449b5a20551e1da93382b)
+### **Resume Auto-Fill Simulator** | [Live Demo](https://resumeautofillsimulator.netlify.app/) | [Code](https://github.com/RaffyLeong/resume-autofill-simulator)
 
 
 A React-based solution addressing the tedious job application experience.  
