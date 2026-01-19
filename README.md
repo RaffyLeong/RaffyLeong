@@ -1,7 +1,9 @@
-👋 Hi, I'm Raffy 
-**Junior Frontend Developer in Transition | Product Manager Background** 
-📍 **Based in Macau, with UK Settled Status** — eligible to work in UK without sponsorship
+# 👋 Hi, I'm Raffy 
+### **Junior Frontend Developer in Transition | Product Manager Background** 
+#### 📍 **UK Settled Status – No Sponsorship Needed** 
 
+I build **clean, user-focused apps** with **React, TypeScript, and Tailwind CSS**.  
+Bringing product thinking, UX insight, and hands-on coding to solve real problems.
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka-fong-leong/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raffy36249@gmail.com) 
