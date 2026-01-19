@@ -5,15 +5,14 @@
 I build **clean, user-focused apps** with **React, TypeScript, and Tailwind CSS**.  
 Bringing product thinking, UX insight, and hands-on coding to solve real problems.
 
-## 💼 I’m actively seeking my first frontend role in the UK.  
+### 💼 I’m actively seeking my first frontend role in the UK.  
 ### Open to junior positions, internships, and collaborative projects.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka-fong-leong/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raffy36249@gmail.com) 
 
 ## 🚀 Featured Project
 
 ### **Job Analyzer**
-**[Live Demo](https://job-anallyze.netlify.app/)** | **[Code](https://github.com/RaffyLeong/Job-analyzer)** | **[Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)**
-<img width="1407" height="738" alt="Screenshot 2026-01-19 at 9 07 46 PM" src="https://github.com/user-attachments/assets/37f33ff1-4c71-4243-a1ee-ab91028e65af" />
+[Live Demo](https://job-anallyze.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)
 
 A React + TypeScript tool that analyzes job descriptions and calculates skill match accuracy.  
 **Key Features:**
@@ -23,6 +22,7 @@ A React + TypeScript tool that analyzes job descriptions and calculates skill ma
 - Personalized learning suggestions
 
 🛠 **Tech:** React, TypeScript, Netlify Deployment
+<img width="1407" height="738" alt="Screenshot 2026-01-19 at 9 07 46 PM" src="https://github.com/user-attachments/assets/37f33ff1-4c71-4243-a1ee-ab91028e65af" />
 
 
 ### **Resume Auto-Fill Simulator** | [Live Demo](https://resumeautofillsimulator.netlify.app/) | [Code](https://github.com/RaffyLeong/resume-autofill-simulator) | [Video Demo](https://www.loom.com/share/e939ff774fbc4465b76411e35d80d5b2)
