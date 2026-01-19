@@ -6,7 +6,7 @@ I build **clean, user-focused apps** with **React, TypeScript, and Tailwind CSS*
 Bringing product thinking, UX insight, and hands-on coding to solve real problems.
 
 ## 💼 I’m actively seeking my first frontend role in the UK.  
-### Open to junior positions, internships, and collaborative projects.
+Open to junior positions, internships, and collaborative projects.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka-fong-leong/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raffy36249@gmail.com) 
 
 ## 🚀 Featured Project
@@ -36,6 +36,8 @@ A React-based solution addressing the tedious job application experience.
 - Clean, responsive UI with TypeScript safety
 
 🛠 **Tech:** React, TypeScript, Netlify Deployment
+<img width="1491" height="752" alt="Screenshot 2026-01-19 at 9 26 32 PM" src="https://github.com/user-attachments/assets/d52e619d-4505-4453-a72f-a67f4f29efa4" />
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
