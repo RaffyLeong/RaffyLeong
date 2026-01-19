@@ -5,15 +5,15 @@
 I build **clean, user-focused apps** with **React, TypeScript, and Tailwind CSS**.  
 Bringing product thinking, UX insight, and hands-on coding to solve real problems.
 
-### 💼 I’m actively seeking my first frontend role in the UK.  
-Open to junior positions, internships, and collaborative projects.
+## 💼 I’m actively seeking my first frontend role in the UK.  
+### Open to junior positions, internships, and collaborative projects.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka-fong-leong/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raffy36249@gmail.com) 
 
 ## 🚀 Featured Project
 
 ### **Job Analyzer**
 **[Live Demo](https://job-anallyze.netlify.app/)** | **[Code](https://github.com/RaffyLeong/Job-analyzer)** | **[Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)**
-![Job Analyzer Screenshot](<img width="1407" height="738" alt="Screenshot 2026-01-19 at 9 07 46 PM" src="https://github.com/user-attachments/assets/37f33ff1-4c71-4243-a1ee-ab91028e65af" />)
+<img width="1407" height="738" alt="Screenshot 2026-01-19 at 9 07 46 PM" src="https://github.com/user-attachments/assets/37f33ff1-4c71-4243-a1ee-ab91028e65af" />
 
 A React + TypeScript tool that analyzes job descriptions and calculates skill match accuracy.  
 **Key Features:**
@@ -54,7 +54,7 @@ A React-based solution addressing the tedious job application experience.
 - Developed responsive website with table booking system using React
 - Implemented UX/UI designs focusing on user experience and accessibility
 - Integrated with external APIs for real-time data handling
-![Little Lemon Screenshot](<img width="1907" height="925" alt="Screenshot 2026-01-19 at 9 09 27 PM" src="https://github.com/user-attachments/assets/d6f324bc-ed48-48f5-9ffe-10e4716e9022" />)
+<img width="1907" height="925" alt="Screenshot 2026-01-19 at 9 09 27 PM" src="https://github.com/user-attachments/assets/d6f324bc-ed48-48f5-9ffe-10e4716e9022" />
 
 
 ### 🎯 Frontend Mentor Challenges
