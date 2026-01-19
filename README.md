@@ -1,8 +1,6 @@
-# 💫 About Me:
-- 🔭 Sharpening my skills through Frontend Mentor challenges - building real projects, not just tutorials<br>
-- 🌱 Self-taught frontend developer focused on modern web technologies<br>
-- 🎯 Seeking my first professional frontend developer role<br>
-- 💡 Proving my abilities through **hands-on projects + open source project**
+👋 Hi, I'm Raffy 
+**Junior Frontend Developer in Transition | Product Manager Background** 
+📍 **Based in Macau, with UK Settled Status** — eligible to work in UK without sponsorship
 
 
 ## 🌐 Connect With Me:
@@ -11,6 +9,7 @@
 ## 🚀 Featured Project
 
 ### **Job Analyzer** | [Live Demo](https://job-anallyze.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)
+<img width="1407" height="738" alt="Screenshot 2026-01-19 at 9 07 46 PM" src="https://github.com/user-attachments/assets/37f33ff1-4c71-4243-a1ee-ab91028e65af" />
 
 
 A React application that analyzes job descriptions and calculates skill match percentage.   
@@ -52,7 +51,7 @@ A React-based solution addressing the tedious job application experience.
 - Developed responsive website with table booking system using React
 - Implemented UX/UI designs focusing on user experience and accessibility
 - Integrated with external APIs for real-time data handling
-
+<img width="1907" height="925" alt="Screenshot 2026-01-19 at 9 09 27 PM" src="https://github.com/user-attachments/assets/d6f324bc-ed48-48f5-9ffe-10e4716e9022" />
 
 ### 🎯 Frontend Mentor Challenges
 Article preview component | [Live Demo](https://raffyleong.github.io/Frontend-Mentor-Article-preview-component/) | [Code](https://github.com/RaffyLeong/Frontend-Mentor-Article-preview-component)
