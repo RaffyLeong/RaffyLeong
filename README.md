@@ -11,8 +11,7 @@ Open to junior positions, internships, and collaborative projects.
 
 ## 🚀 Featured Project
 
-### **Job Analyzer**
-[Live Demo](https://job-anallyze.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)
+### **Job Analyzer** [Live Demo](https://job-anallyze.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)
 
 A React + TypeScript tool that analyzes job descriptions and calculates skill match accuracy.  
 **Key Features:**
