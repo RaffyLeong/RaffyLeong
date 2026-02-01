@@ -11,7 +11,7 @@ Open to junior positions, internships, and collaborative projects.
 
 ## 🚀 Featured Project  - [Portfolio](https://raffyleong.github.io/Portfolio/#)
 
-### **Job Analyzer** [Live Demo](https://job-analyzer.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)
+### **Job Analyzer** [Live Demo](https://job-analyzer.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/f7a196256af94299a33eedfcec368549)
 
 A React application that analyzes job descriptions against your profile with a 4-step workflow, providing detailed match percentages and actionable insights.
 **Key Features:**
