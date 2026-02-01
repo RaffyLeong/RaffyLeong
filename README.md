@@ -37,7 +37,8 @@ A React-based solution addressing the tedious job application experience.
 - Clean, responsive UI with TypeScript safety
 
 🛠 **Tech:** React, TypeScript, Netlify Deployment
-<img width="1491" height="752" alt="Screenshot 2026-01-19 at 9 26 32 PM" src="https://github.com/user-attachments/assets/d52e619d-4505-4453-a72f-a67f4f29efa4" />
+<img width="1888" height="923" alt="Screenshot 2026-02-01 at 2 09 30 PM" src="https://github.com/user-attachments/assets/3e70aad5-bac2-4b4d-87fb-bd37c7e0dbe9" />
+
 
 
 # 💻 Tech Stack:
