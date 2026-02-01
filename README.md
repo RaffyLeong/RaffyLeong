@@ -23,7 +23,8 @@ A React application that analyzes job descriptions against your profile with a 4
 - Backend API + localStorage fallback
 
 🛠 **Tech:** React, TypeScript, Netlify Deployment
-<img width="1860" height="916" alt="Screenshot 2026-02-01 at 1 01 51 PM" src="https://github.com/user-attachments/assets/603e73bc-b657-4a01-98f6-8b4a52a91734" />
+<img width="1904" height="928" alt="Screenshot 2026-02-01 at 2 26 19 PM" src="https://github.com/user-attachments/assets/dade5021-5419-4a53-b79a-2437bcb9f539" />
+
 
 
 
