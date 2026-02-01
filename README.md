@@ -9,7 +9,7 @@ Bringing product thinking, UX insight, and hands-on coding to solve real problem
 Open to junior positions, internships, and collaborative projects.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka-fong-leong/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raffy36249@gmail.com) 
 
-## 🚀 Featured Project  - [Portfolio](https://raffyleong.github.io/Portfolio/#work)
+## 🚀 Featured Project  - [Portfolio](https://raffyleong.github.io/Portfolio/#)
 
 ### **Job Analyzer** [Live Demo](https://job-analyzer.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)
 
