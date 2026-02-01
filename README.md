@@ -11,21 +11,23 @@ Open to junior positions, internships, and collaborative projects.
 
 ## 🚀 Featured Project  - [Portfolio](https://raffyleong.github.io/Portfolio/#work)
 
-### **Job Analyzer** [Live Demo](https://job-anallyze.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)
+### **Job Analyzer** [Live Demo](https://job-analyzer.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/b40ab271605e4345a2d303e24c1a1e69)
 
-A React + TypeScript tool that analyzes job descriptions and calculates skill match accuracy.  
+A React application that analyzes job descriptions against your profile with a 4-step workflow, providing detailed match percentages and actionable insights.
 **Key Features:**
-- Instant job description analysis
-- Skill match percentage calculation
+- 4-Step Analysis Workflow
+- Skills, Role, experience match percentage calculation
 - Tech stack identification
-- Personalized learning suggestions
+- Clear history functionality
+- Dark/Light mode toggle
+- Backend API + localStorage fallback
 
 🛠 **Tech:** React, TypeScript, Netlify Deployment
-<img width="1407" height="738" alt="Screenshot 2026-01-19 at 9 07 46 PM" src="https://github.com/user-attachments/assets/37f33ff1-4c71-4243-a1ee-ab91028e65af" />
+<img width="1860" height="916" alt="Screenshot 2026-02-01 at 1 01 51 PM" src="https://github.com/user-attachments/assets/603e73bc-b657-4a01-98f6-8b4a52a91734" />
+
 
 
 ### **Resume Auto-Fill Simulator** | [Live Demo](https://resumeautofillsimulator.netlify.app/) | [Code](https://github.com/RaffyLeong/resume-autofill-simulator) | [Video Demo](https://www.loom.com/share/e939ff774fbc4465b76411e35d80d5b2)
-
 
 A React-based solution addressing the tedious job application experience.  
 **Key Features:**
