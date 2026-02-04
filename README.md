@@ -40,7 +40,7 @@ A React-based solution addressing the tedious job application experience.
 🛠 **Tech:** React, TypeScript, Netlify Deployment
 <img width="1904" height="928" alt="Screenshot 2026-02-01 at 2 15 15 PM" src="https://github.com/user-attachments/assets/373ac016-467b-40f3-9c2a-22d729f6b8ff" />
 
-### **Client Portfolio Website** | [Live Demo](https://hehestudio.netlify.app/) | [Code](https://github.com/RaffyLeong/WXYZ-Studio) 
+### **Client Portfolio Website** | [Live Demo](https://hehestudio.netlify.app/) | [Code](https://github.com/RaffyLeong/Hehe-Studio) 
 
 A custom-designed portfolio website built for a freelance client to showcase creative work and services.
 **Key Features:**
