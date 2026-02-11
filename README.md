@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raffy 
-### **Junior Frontend Developer in Transition | Product Manager Background** 
+### **Frontend Developer | React & TypeScript | Product Mindset** 
 #### 📍 **UK Settled Status – No Sponsorship Needed** 
-
+#### **Tech: React | TypeScript | Tailwind CSS | Node.js | MongoDB | Git | Vite**
 I build **clean, user-focused apps** with **React, TypeScript, and Tailwind CSS**.  
 Bringing product thinking, UX insight, and hands-on coding to solve real problems.
 
