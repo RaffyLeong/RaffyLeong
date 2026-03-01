@@ -49,8 +49,7 @@ A custom-designed portfolio website built for a freelance client to showcase cre
 - Fast performance
 
 🛠 **Tech:** React, TypeScript, Netlify Deployment
-<img width="1917" height="925" alt="Screenshot 2026-02-02 at 8 53 52 PM" src="https://github.com/user-attachments/assets/70baad94-1434-4198-bb55-2aaf73e59279" />
-
+<img width="1917" height="928" alt="Screenshot 2026-03-01 at 6 43 24 PM" src="https://github.com/user-attachments/assets/915b3924-4051-4cc5-a5fa-e066ad79eae1" />
 
 
 
