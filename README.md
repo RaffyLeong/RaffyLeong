@@ -11,6 +11,22 @@ Open to junior positions, internships, and collaborative projects.
 
 ## 🚀 Featured Project  - [Portfolio](https://raffyleong.github.io/Portfolio/#)
 
+### **Relocation Bridge** [Live Demo](https://relocation-bridge.netlify.app/) | [Code](https://github.com/RaffyLeong/Relocation-Bridge)
+
+A React application that helps professionals compare relocation costs, salaries, and visa options when moving from Asia to the UK. Built with a 4-step workflow providing personalized financial insights based on real data.
+
+**Key Features:**
+- 4-Step Relocation Workflow (Profile → Compare → Summary → Resources)
+- Financial calculations (Annual Left, Monthly Disposable Income)
+- UK Visa options (Skilled Worker, Global Talent, Settled Status)
+- Side-by-side city comparison (Current vs Target)
+- MongoDB history storage with localStorage fallback
+- PDF summary download
+
+🛠 **Tech:** React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Render, Netlify
+<img width="1861" height="926" alt="Screenshot 2026-03-01 at 7 11 50 PM" src="https://github.com/user-attachments/assets/a11ae5aa-6b96-4c19-93a1-48feb806da5a" />
+
+
 ### **Job Analyzer** [Live Demo](https://job-analyzer.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/f7a196256af94299a33eedfcec368549)
 
 A React application that analyzes job descriptions against your profile with a 4-step workflow, providing detailed match percentages and actionable insights.
@@ -22,7 +38,7 @@ A React application that analyzes job descriptions against your profile with a 4
 - Dark/Light mode toggle
 - Backend API + localStorage fallback
 
-🛠 **Tech:** React, TypeScript, Netlify Deployment
+🛠 **Tech:** React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Render, Netlify
 <img width="1904" height="928" alt="Screenshot 2026-02-01 at 2 26 19 PM" src="https://github.com/user-attachments/assets/dade5021-5419-4a53-b79a-2437bcb9f539" />
 
 
@@ -48,7 +64,7 @@ A custom-designed portfolio website built for a freelance client to showcase cre
 - SEO-optimized with meta tags and semantic HTML
 - Fast performance
 
-🛠 **Tech:** React, TypeScript, Netlify Deployment
+🛠 **Tech:** React, TypeScript, Tailwind CSS, Netlify Deployment
 <img width="1917" height="928" alt="Screenshot 2026-03-01 at 6 43 24 PM" src="https://github.com/user-attachments/assets/915b3924-4051-4cc5-a5fa-e066ad79eae1" />
 
 
