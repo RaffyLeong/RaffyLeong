@@ -26,6 +26,17 @@ A React application that helps professionals compare relocation costs, salaries,
 🛠 **Tech:** React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Render, Netlify
 <img width="1861" height="926" alt="Screenshot 2026-03-01 at 7 11 50 PM" src="https://github.com/user-attachments/assets/a11ae5aa-6b96-4c19-93a1-48feb806da5a" />
 
+### **HeHe Studio (Client Project)** | [Live Demo](https://hehestudio.netlify.app/) | [Code](https://github.com/RaffyLeong/Hehe-Studio) 
+
+A custom-designed portfolio website built for a freelance client to showcase creative work and services.
+**Key Features:**
+- Smooth page transitions and scroll animations using Framer Motion
+- SEO-optimized with meta tags and semantic HTML
+- Fast performance
+
+🛠 **Tech:** React, TypeScript, Tailwind CSS, Netlify Deployment
+<img width="1917" height="928" alt="Screenshot 2026-03-01 at 6 43 24 PM" src="https://github.com/user-attachments/assets/915b3924-4051-4cc5-a5fa-e066ad79eae1" />
+
 
 ### **Job Analyzer** [Live Demo](https://job-analyzer.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/f7a196256af94299a33eedfcec368549)
 
@@ -56,16 +67,6 @@ A React-based solution addressing the tedious job application experience.
 🛠 **Tech:** React, TypeScript, Netlify Deployment
 <img width="1904" height="928" alt="Screenshot 2026-02-01 at 2 15 15 PM" src="https://github.com/user-attachments/assets/373ac016-467b-40f3-9c2a-22d729f6b8ff" />
 
-### **Client Portfolio Website** | [Live Demo](https://hehestudio.netlify.app/) | [Code](https://github.com/RaffyLeong/Hehe-Studio) 
-
-A custom-designed portfolio website built for a freelance client to showcase creative work and services.
-**Key Features:**
-- Smooth page transitions and scroll animations using Framer Motion
-- SEO-optimized with meta tags and semantic HTML
-- Fast performance
-
-🛠 **Tech:** React, TypeScript, Tailwind CSS, Netlify Deployment
-<img width="1917" height="928" alt="Screenshot 2026-03-01 at 6 43 24 PM" src="https://github.com/user-attachments/assets/915b3924-4051-4cc5-a5fa-e066ad79eae1" />
 
 
 
