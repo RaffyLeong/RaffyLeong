@@ -21,7 +21,7 @@ A React application that helps professionals compare relocation costs, salaries,
 - UK Visa options (Skilled Worker, Global Talent, Settled Status)
 - Side-by-side city comparison (Current vs Target)
 - MongoDB history storage with localStorage fallback
-- PDF summary download
+- TXT summary download
 
 🛠 **Tech:** React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Render, Netlify
 <img width="1861" height="926" alt="Screenshot 2026-03-01 at 7 11 50 PM" src="https://github.com/user-attachments/assets/a11ae5aa-6b96-4c19-93a1-48feb806da5a" />
