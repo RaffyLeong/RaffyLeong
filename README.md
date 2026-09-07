@@ -10,9 +10,9 @@ Bringing product thinking, UX insight, and hands-on coding to solve real problem
 Open to junior positions, internships, and collaborative projects.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka-fong-leong/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raffy36249@gmail.com) 
 
-## 🚀 Featured Project  - [Portfolio](https://raffyleong.github.io/Portfolio/#)
+## 🚀 Featured Project  - [Portfolio](https://raffyleong.vercel.app/)
 
-### **Job Analyzer** [Live Demo](https://job-analyzer.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer) | [Video Demo](https://www.loom.com/share/f7a196256af94299a33eedfcec368549)
+### **Job Analyzer** [Live Demo](https://job-analyzer.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer)
 
 A React application that analyzes job descriptions against your profile with a 4-step workflow, providing detailed match percentages and actionable insights.
 **Key Features:**
