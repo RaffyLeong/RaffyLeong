@@ -4,9 +4,9 @@
 #### **Open to fixed-term contracts (FTC) & contract-to-hire**
 #### **Tech: React | TypeScript | Tailwind CSS | Node.js | MongoDB | Git | Vite**
 
-I'm a self-taught developer with a design background. I ship full-stack apps end-to-end — from idea, to UI, to launch.
+I'm a self-taught developer with a design background. I ship full-stack apps end to end from idea, to UI, to launch.
 
-Currently building: **Zentic** — a property comparison tool helping house-hunters make confident decisions. Live in beta, actively developed.
+Currently building: **Zentic**  a property comparison tool helping house hunters make confident decisions. Live in beta, actively developed.
 
 
 Open to junior positions, internships, and collaborative projects.
@@ -18,7 +18,7 @@ Open to junior positions, internships, and collaborative projects.
 
 ## Status
 
-**Beta** — Zentic is live and usable, but still evolving. I'm actively adding features based on user feedback.
+**Beta**  Zentic is live and usable, but still evolving. I'm actively adding features based on user feedback.
 Coming soon:
 - More Real property data (currently using sample data)
 - Map view
@@ -26,7 +26,7 @@ Coming soon:
 
 ## Why I Built This
 
-I'm a self-taught developer with a background in product design. While looking for a place to live, I found myself opening dozens of tabs and making messy notes to compare properties. The tools that existed were either browser extensions or didn't explain *why* one property might be better than another.
+I'm a self taught developer with a background in product design. While looking for a place to live, I found myself opening dozens of tabs and making messy notes to compare properties. The tools that existed were either browser extensions or didn't explain *why* one property might be better than another.
 
 Zentic is my attempt to build the tool I wished existed one that helps you decide, not just search.
 
