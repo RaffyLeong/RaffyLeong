@@ -12,7 +12,7 @@ Open to junior positions, internships, and collaborative projects.
 
 ## 🚀 Featured Project  - [Portfolio](https://raffyleong.vercel.app/)
 
-### **Zentic(Beta)** [Beta](https://zentic-one.vercel.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer)
+### **Zentic(Beta)** [Beta](https://zentic-one.vercel.app/) | [Code](https://github.com/RaffyLeong/Zentic)
 
 ## Status
 
@@ -29,6 +29,8 @@ I'm a self-taught developer with a background in product design. While looking f
 Zentic is my attempt to build the tool I wished existed one that helps you decide, not just search.
 
 This isn't a portfolio project. It's a product I believe in, and I'm building it to be used by real people. Currently in beta while I add the features that matter most to users.
+<img width="1491" height="750" alt="Screenshot 2026-09-19 at 12 25 16 AM" src="https://github.com/user-attachments/assets/62df3791-ca3e-443d-8439-7cb330d8faf4" />
+
 
 ### **Job Analyzer** [Live Demo](https://job-analyzer.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer)
 
