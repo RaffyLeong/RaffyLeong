@@ -12,6 +12,24 @@ Open to junior positions, internships, and collaborative projects.
 
 ## 🚀 Featured Project  - [Portfolio](https://raffyleong.vercel.app/)
 
+### **Zentic(Beta)** [Beta](https://zentic-one.vercel.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer)
+
+## Status
+
+**Beta** — Zentic is live and usable, but still evolving. I'm actively adding features based on user feedback.
+Coming soon:
+- More Real property data (currently using sample data)
+- Map view
+- More
+
+## Why I Built This
+
+I'm a self-taught developer with a background in product design. While looking for a place to live, I found myself opening dozens of tabs and making messy notes to compare properties. The tools that existed were either browser extensions or didn't explain *why* one property might be better than another.
+
+Zentic is my attempt to build the tool I wished existed one that helps you decide, not just search.
+
+This isn't a portfolio project. It's a product I believe in, and I'm building it to be used by real people. Currently in beta while I add the features that matter most to users.
+
 ### **Job Analyzer** [Live Demo](https://job-analyzer.netlify.app/) | [Code](https://github.com/RaffyLeong/Job-analyzer)
 
 A React application that analyzes job descriptions against your profile with a 4-step workflow, providing detailed match percentages and actionable insights.
