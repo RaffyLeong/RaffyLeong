@@ -4,7 +4,7 @@
 #### **Open to fixed-term contracts (FTC) & contract-to-hire**
 #### **Tech: React | TypeScript | Tailwind CSS | Node.js | MongoDB | Git | Vite**
 
-I'm a self-taught developer with a design background. I ship full-stack apps end to end from idea, to UI, to launch.
+I'm a self taught developer with a design background. I ship full-stack apps end to end from idea, to UI, to launch.
 
 Currently building: **Zentic**  a property comparison tool helping house hunters make confident decisions. Live in beta, actively developed.
 
